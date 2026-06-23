@@ -1,0 +1,134 @@
+[
+    {
+        "category": "Transportation",
+        "monthlyLimit": 300.0,
+        "spentAmount": 0.0,
+        "userId": 3
+    },
+    {
+        "category": "Shopping",
+        "monthlyLimit": 2500.0,
+        "spentAmount": 0.0,
+        "userId": 3
+    },
+    {
+        "category": "Health & Fitness",
+        "monthlyLimit": 90.0,
+        "spentAmount": 0.0,
+        "userId": 3
+    },
+    {
+        "category": "Food & Dining",
+        "monthlyLimit": 600.0,
+        "spentAmount": 0.0,
+        "userId": 3
+    },
+    {
+        "category": "Food & Dining",
+        "monthlyLimit": 300.0,
+        "spentAmount": 230.0,
+        "userId": 5
+    },
+    {
+        "category": "Transportation",
+        "monthlyLimit": 300.0,
+        "spentAmount": 170.0,
+        "userId": 5
+    },
+    {
+        "category": "Shopping",
+        "monthlyLimit": 150.0,
+        "spentAmount": 330.0,
+        "userId": 5
+    },
+    {
+        "category": "Health & Fitness",
+        "monthlyLimit": 100.0,
+        "spentAmount": 85.0,
+        "userId": 5
+    },
+    {
+        "category": "Entertainment",
+        "monthlyLimit": 100.0,
+        "spentAmount": 0.0,
+        "userId": 5
+    },
+    {
+        "category": "Education",
+        "monthlyLimit": 200.0,
+        "spentAmount": 0.0,
+        "userId": 5
+    },
+    {
+        "category": "Food & Dining",
+        "monthlyLimit": 500.0,
+        "spentAmount": 0.0,
+        "userId": 4
+    },
+    {
+        "category": "Transportation",
+        "monthlyLimit": 300.0,
+        "spentAmount": 0.0,
+        "userId": 4
+    },
+    {
+        "category": "Shopping",
+        "monthlyLimit": 300.0,
+        "spentAmount": 100.0,
+        "userId": 4
+    },
+    {
+        "category": "Health & Fitness",
+        "monthlyLimit": 250.0,
+        "spentAmount": 0.0,
+        "userId": 4
+    },
+    {
+        "category": "Education",
+        "monthlyLimit": 1200.0,
+        "spentAmount": 0.0,
+        "userId": 3
+    },
+    {
+        "category": "Taxes",
+        "monthlyLimit": 150.0,
+        "spentAmount": 0.0,
+        "userId": 3
+    },
+    {
+        "category": "Food & Dining",
+        "monthlyLimit": 500.0,
+        "spentAmount": 105.0,
+        "userId": 6
+    },
+    {
+        "category": "Shopping",
+        "monthlyLimit": 800.0,
+        "spentAmount": 0.0,
+        "userId": 6
+    },
+    {
+        "category": "Transportation",
+        "monthlyLimit": 400.0,
+        "spentAmount": 250.0,
+        "userId": 6
+    },
+    {
+        "category": "Health & Fitness",
+        "monthlyLimit": 55.0,
+        "spentAmount": 45.0,
+        "userId": 6
+    },
+    {
+        "category": "Education",
+        "monthlyLimit": 799.0,
+        "spentAmount": 700.0,
+        "userId": 6
+    },
+    {
+        "category": "Taxes",
+        "monthlyLimit": 146.0,
+        "spentAmount": 130.0,
+        "userId": 6
+    }
+]

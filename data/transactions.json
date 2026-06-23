@@ -1,0 +1,299 @@
+[
+    {
+        "amount": 25.0,
+        "category": "Food & Dining",
+        "date": "2026-06-12T03:09:56.528Z",
+        "id": 1,
+        "merchant": "Pizza",
+        "type": "Expense",
+        "userId": 3
+    },
+    {
+        "amount": 25.0,
+        "category": "Food & Dining",
+        "date": "2026-06-12T03:11:08.981Z",
+        "id": 2,
+        "merchant": "Pizza",
+        "type": "Expense",
+        "userId": 3
+    },
+    {
+        "amount": 100.0,
+        "category": "Food & Dining",
+        "date": "2026-06-12T03:14:06.811Z",
+        "id": 3,
+        "merchant": "Burger",
+        "type": "Expense",
+        "userId": 3
+    },
+    {
+        "amount": 3000.0,
+        "category": "Salary",
+        "date": "2026-06-12T03:20:38.726Z",
+        "id": 4,
+        "merchant": "Apple Store",
+        "type": "Income",
+        "userId": 3
+    },
+    {
+        "amount": 500.0,
+        "category": "Food & Dining",
+        "date": "2026-06-12T03:23:58.576Z",
+        "id": 5,
+        "merchant": "Biryani",
+        "type": "Expense",
+        "userId": 3
+    },
+    {
+        "amount": 3223.0,
+        "category": "Shopping",
+        "date": "2026-06-12T03:43:19.092Z",
+        "id": 7,
+        "merchant": "Laptop & Mobile",
+        "type": "Expense",
+        "userId": 3
+    },
+    {
+        "amount": 1212.0,
+        "category": "Education",
+        "date": "2026-06-12T03:42:45.646Z",
+        "id": 8,
+        "merchant": "School Fee",
+        "type": "Expense",
+        "userId": 3
+    },
+    {
+        "amount": 12.0,
+        "category": "Taxes",
+        "date": "2026-06-12T03:42:57.189Z",
+        "id": 9,
+        "merchant": "FBR Tax",
+        "type": "Expense",
+        "userId": 3
+    },
+    {
+        "amount": 7855.0,
+        "category": "Freelance",
+        "date": "2026-06-12T10:30:36.942Z",
+        "id": 11,
+        "merchant": "Upwork",
+        "type": "Income",
+        "userId": 3
+    },
+    {
+        "amount": 3000.0,
+        "category": "Salary",
+        "date": "2026-06-12T14:07:10.390Z",
+        "id": 12,
+        "merchant": "Freelance",
+        "type": "Income",
+        "userId": 4
+    },
+    {
+        "amount": 15.0,
+        "category": "Food & Dining",
+        "date": "2026-06-12T14:07:35.296Z",
+        "id": 13,
+        "merchant": "Pizza",
+        "type": "Expense",
+        "userId": 4
+    },
+    {
+        "amount": 800.0,
+        "category": "Shopping",
+        "date": "2026-06-12T14:08:48.240Z",
+        "id": 14,
+        "merchant": "Clothing",
+        "type": "Expense",
+        "userId": 4
+    },
+    {
+        "amount": 300.0,
+        "category": "Health & Fitness",
+        "date": "2026-06-12T14:09:16.569Z",
+        "id": 15,
+        "merchant": "Medication",
+        "type": "Expense",
+        "userId": 4
+    },
+    {
+        "amount": 45.0,
+        "category": "Transportation",
+        "date": "2026-06-14T12:01:27.702Z",
+        "id": 16,
+        "merchant": "Vehicle",
+        "type": "Expense",
+        "userId": 3
+    },
+    {
+        "amount": 80.0,
+        "category": "Health & Fitness",
+        "date": "2026-06-14T12:06:00.710Z",
+        "id": 17,
+        "merchant": "Medication",
+        "type": "Expense",
+        "userId": 3
+    },
+    {
+        "amount": 20.0,
+        "category": "Food & Dining",
+        "date": "2026-06-17T06:39:25.263Z",
+        "id": 19,
+        "merchant": "Pizza",
+        "type": "Expense",
+        "userId": 5
+    },
+    {
+        "amount": 3000.0,
+        "category": "Salary",
+        "date": "2026-06-17T06:39:35.246Z",
+        "id": 20,
+        "merchant": "Job",
+        "type": "Income",
+        "userId": 5
+    },
+    {
+        "amount": 80.0,
+        "category": "Shopping",
+        "date": "2026-06-17T06:41:19.021Z",
+        "id": 21,
+        "merchant": "Clothing",
+        "type": "Expense",
+        "userId": 5
+    },
+    {
+        "amount": 50.0,
+        "category": "Transportation",
+        "date": "2026-06-17T06:41:31.832Z",
+        "id": 22,
+        "merchant": "Travel",
+        "type": "Expense",
+        "userId": 5
+    },
+    {
+        "amount": 120.0,
+        "category": "Transportation",
+        "date": "2026-06-17T06:41:41.465Z",
+        "id": 23,
+        "merchant": "Travel",
+        "type": "Expense",
+        "userId": 5
+    },
+    {
+        "amount": 250.0,
+        "category": "Shopping",
+        "date": "2026-06-17T06:42:06.028Z",
+        "id": 24,
+        "merchant": "Laptop",
+        "type": "Expense",
+        "userId": 5
+    },
+    {
+        "amount": 85.0,
+        "category": "Health & Fitness",
+        "date": "2026-06-17T06:42:23.037Z",
+        "id": 25,
+        "merchant": "Medication",
+        "type": "Expense",
+        "userId": 5
+    },
+    {
+        "amount": 230.0,
+        "category": "Food & Dining",
+        "date": "2026-06-17T06:42:39.510Z",
+        "id": 26,
+        "merchant": "Eating",
+        "type": "Expense",
+        "userId": 5
+    },
+    {
+        "amount": 2500.0,
+        "category": "Freelance",
+        "date": "2026-06-22T04:09:49.651Z",
+        "id": 27,
+        "merchant": "AI Automation",
+        "type": "Income",
+        "userId": 6
+    },
+    {
+        "amount": 500.0,
+        "category": "Gifts",
+        "date": "2026-06-22T04:10:04.014Z",
+        "id": 28,
+        "merchant": "Friends",
+        "type": "Income",
+        "userId": 6
+    },
+    {
+        "amount": 700.0,
+        "category": "Shopping",
+        "date": "2026-06-22T04:10:18.396Z",
+        "id": 29,
+        "merchant": "Grocery Items",
+        "type": "Expense",
+        "userId": 6
+    },
+    {
+        "amount": 700.0,
+        "category": "Education",
+        "date": "2026-06-22T04:11:21.243Z",
+        "id": 30,
+        "merchant": "School Fee",
+        "type": "Expense",
+        "userId": 6
+    },
+    {
+        "amount": 400.0,
+        "category": "Bills",
+        "date": "2026-06-22T04:11:30.898Z",
+        "id": 31,
+        "merchant": "Electricity",
+        "type": "Expense",
+        "userId": 6
+    },
+    {
+        "amount": 350.0,
+        "category": "Transportation",
+        "date": "2026-06-22T04:13:59.133Z",
+        "id": 32,
+        "merchant": "Travelling",
+        "type": "Expense",
+        "userId": 6
+    },
+    {
+        "amount": 50.0,
+        "category": "Food & Dining",
+        "date": "2026-06-22T04:11:46.859Z",
+        "id": 33,
+        "merchant": "Burger",
+        "type": "Expense",
+        "userId": 6
+    },
+    {
+        "amount": 55.0,
+        "category": "Food & Dining",
+        "date": "2026-06-22T04:11:54.272Z",
+        "id": 34,
+        "merchant": "Pizza",
+        "type": "Expense",
+        "userId": 6
+    },
+    {
+        "amount": 130.0,
+        "category": "Taxes",
+        "date": "2026-06-22T04:12:10.476Z",
+        "id": 35,
+        "merchant": "FBR",
+        "type": "Expense",
+        "userId": 6
+    },
+    {
+        "amount": 45.0,
+        "category": "Health & Fitness",
+        "date": "2026-06-22T04:12:21.305Z",
+        "id": 36,
+        "merchant": "Medication",
+        "type": "Expense",
+        "userId": 6
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "email": "test@test.com",
+        "id": 1,
+        "name": "Test",
+        "password": "12345678",
+        "preferences": "{\"profile\":{\"avatarUrl\":\"/assets/avatars/smiling-boy-yellow-hoodie_1308-175701.jpg\"}}"
+    },
+    {
+        "email": "usman@example.com",
+        "id": 2,
+        "name": "Usman",
+        "password": "12345678",
+        "preferences": "{\"profile\":{\"avatarUrl\":\"/assets/avatars/smiling-redhaired-cartoon-boy_1308-174709.jpg\"},\"notifications\":{\"email\":true,\"push\":false,\"reports\":true},\"security\":{\"twoFactor\":false,\"loginAlerts\":true},\"privacy\":{\"dataSharing\":false,\"publicProfile\":false}}"
+    },
+    {
+        "email": "umar@example.com",
+        "id": 3,
+        "name": "Umar",
+        "password": "12345678",
+        "preferences": "{\"profile\":{\"avatarUrl\":\"/assets/avatars/young-man-with-glasses-avatar_1308-175763.jpg\"},\"notifications\":{\"email\":true,\"push\":false,\"reports\":true},\"security\":{\"twoFactor\":true,\"loginAlerts\":true},\"privacy\":{\"dataSharing\":false,\"publicProfile\":false},\"monthlyBudget\":7900}"
+    },
+    {
+        "email": "amir@example.com",
+        "id": 4,
+        "name": "Amir",
+        "password": "12345678",
+        "preferences": "{\"profile\":{\"avatarUrl\":\"/assets/avatars/young-man-with-glasses-avatar_1308-175763.jpg\"},\"notifications\":{\"email\":true,\"push\":false,\"reports\":true},\"security\":{\"twoFactor\":false,\"loginAlerts\":true},\"privacy\":{\"dataSharing\":false,\"publicProfile\":false},\"monthlyBudget\":4500}"
+    },
+    {
+        "email": "wahab@example.com",
+        "id": 5,
+        "name": "Wahab",
+        "password": "12345678",
+        "preferences": "{\"profile\":{\"avatarUrl\":\"/assets/avatars/smiling-redhaired-cartoon-boy_1308-174709.jpg\"},\"notifications\":{\"email\":true,\"push\":false,\"reports\":true},\"security\":{\"twoFactor\":true,\"loginAlerts\":true},\"privacy\":{\"dataSharing\":false,\"publicProfile\":false},\"monthlyBudget\":2500}"
+    },
+    {
+        "email": "ali@example.com",
+        "id": 6,
+        "name": "Ali",
+        "password": "12345678",
+        "preferences": "{\"profile\":{\"avatarUrl\":\"/assets/avatars/smiling-young-man-with-glasses_1308-174435.jpg\"},\"notifications\":{\"email\":true,\"push\":false,\"reports\":false},\"security\":{\"twoFactor\":true,\"loginAlerts\":true},\"privacy\":{\"dataSharing\":false,\"publicProfile\":false},\"monthlyBudget\":3000}"
+    }
+]
