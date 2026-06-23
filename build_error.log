@@ -1,0 +1,25 @@
+
+> budgetwise@0.1.0 build
+> next build
+
+ΓÜá Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of C:\Users\ALI MURTAZA\package-lock.json as the root directory.
+ To silence this warning, set `turbopack.root` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/turbopack#root-directory for more information.
+ Detected additional lockfiles: 
+   * C:\Users\ALI MURTAZA\Desktop\BudgetWise\budgetwise\package-lock.json
+
+Γû▓ Next.js 16.1.6 (Turbopack)
+
+  Running TypeScript ...
+  Creating an optimized production build ...
+Γ£ô Compiled successfully in 7.0s
+  Collecting page data using 7 workers ...
+  Generating static pages using 7 workers (0/9) ...
+TypeError: Cannot read properties of undefined (reading 'map')
+    at c (C:\Users\ALI MURTAZA\Desktop\BudgetWise\budgetwise\.next\server\chunks\ssr\[root-of-the-server]__459aa640._.js:1:3670)
+Error occurred prerendering page "/dashboard". Read more: https://nextjs.org/docs/messages/prerender-error
+TypeError: Cannot read properties of undefined (reading 'map')
+    at c (C:\Users\ALI MURTAZA\Desktop\BudgetWise\budgetwise\.next\server\chunks\ssr\[root-of-the-server]__459aa640._.js:1:3670)
+Export encountered an error on /dashboard, exiting the build.
+Γ¿» Next.js build worker exited with code: 1 and signal: null
